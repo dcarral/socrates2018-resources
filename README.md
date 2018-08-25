@@ -4,6 +4,18 @@
 
 During the 2018 edition a lot of attendees have shared session results, including valuable resources, using a private Slack workspace. Aligning with the original open-space spirit of making discussions available to everyone (also those not attending the event), this repository tries to compile most of them.
 
+<!-- TOC -->
+
+- [SoCraTes 2018 (resources)](#socrates-2018-resources)
+    - [Resources](#resources)
+        - [Books](#books)
+        - [Articles / blog posts](#articles--blog-posts)
+        - [Slides](#slides)
+        - [Other resources](#other-resources)
+        - [Software projects](#software-projects)
+
+<!-- /TOC -->
+
 ## Resources 
 
 ### Books 
